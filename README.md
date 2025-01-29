@@ -6,7 +6,7 @@
 
 **INTRODUCTION**
 
-The grocery delivery industry is highly competitive, requiring efficient operations and data-driven strategies to optimize sales and customer satisfaction. This project leverages Blinkit's sales data to analyze key performance indicators (KPIs) and create interactive Power BI dashboards to facilitate informed decision-making. The dataset comprises detailed information on products, outlets, sales, and customer ratings, providing an excellent foundation for generating actionable insights.
+The grocery delivery industry is *highly competitive, requiring efficient operations and data-driven strategies* to optimize sales and customer satisfaction. This project leverages Blinkit's sales data to analyze **Key Performance Indicators (KPIs)** and create interactive *Power BI dashboards* to facilitate informed decision-making. The dataset comprises detailed information on products, outlets, sales, and customer ratings, providing an excellent foundation for generating actionable insights.
 
 ________________________________________
 
@@ -34,7 +34,7 @@ ________________________________________
       o**Item Type:** Frozen Foods, Soft Drinks etc
       o**Outlet Establishment Year:** Year of outlet establishment.
       o**Outlet Identifier:** Unique outlet IDs.
-      o**	Outlet Location Type**: Tier-based location classification 
+      o**Outlet Location Type**: Tier-based location classification 
       o**Outlet Size:** Small, Medium, High.
       o**Outlet Type:** Supermarket types.
       o**Item Visibility:** Shelf visibility of items.
@@ -45,7 +45,7 @@ _______________________________________
 
 **SCOPE OF THE PROJECT**
 
-**The project will focus on:**
+***The project will focus on:***
 
 1. **Sales Analysis:** Evaluating sales by product category, region, and outlet type.
 
@@ -112,7 +112,7 @@ ________________________________________
 ________________________________________
 **CONCLUSION**
 
-This project aims to showcase the power of data analytics in the grocery delivery industry by creating a dynamic and insightful dashboard for Blinkit's sales data. The analysis and visualizations will not only provide valuable insights into sales trends and outlet performance but also serve as a strong foundation for future data-driven decision-making in the organization.
+*This project aims to showcase the power of data analytics in the grocery delivery industry by creating a dynamic and insightful dashboard for Blinkit's sales data. The analysis and visualizations will not only provide valuable insights into sales trends and outlet performance but also serve as a strong foundation for future data-driven decision-making in the organization.*
 
 
 
