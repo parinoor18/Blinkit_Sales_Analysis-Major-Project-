@@ -111,6 +111,7 @@ ________________________________________
 
 ________________________________________
 **CONCLUSION**
+
 This project aims to showcase the power of data analytics in the grocery delivery industry by creating a dynamic and insightful dashboard for Blinkit's sales data. The analysis and visualizations will not only provide valuable insights into sales trends and outlet performance but also serve as a strong foundation for future data-driven decision-making in the organization.
 
 
