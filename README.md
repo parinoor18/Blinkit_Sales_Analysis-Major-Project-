@@ -81,6 +81,7 @@ ________________________________________
 ________________________________________
 
 **TOOLS AND TECHNOLOGY**
+
 1.**Power BI Desktop:** For data modeling and visualization.
 2.**Power Query:** For data transformation and cleaning.
 3.**DAX (Data Analysis Expressions)**: For custom metrics and calculated columns.
@@ -95,23 +96,19 @@ ________________________________________
 
 **TIMELINE**
 
-|	**WEEK** | **TASK** | 	**TOOLS/TECHNOLOGY**	 | 
-| 	:-----:  | 	:-----:	 | 	:-----:	 | 
-| 	Week1    | 	Value2	| 	Value3	 | 
-| 	Week2    | 	Value2	| 	Value3	 | 
-| 	Week3    | 	Value2	| 	Value3	 | 
-| 	Week4    | 	Value2	| 	Value3	 | 
-| 	Week5    | 	Value2	| 	Value3	 | 
+|	**WEEK** |                **TASK**              |    **TOOLS/TECHNOLOGY**       | 
+| 	:-----:  |                :-----:	        |   	:-----:	                | 
+| 	Week1    | 	Dataset Collection and Review	|     Excel, Power BI           | 
+| 	Week2    | 	Data Cleaning and Preprocessing	|     Power Query	        | 
+| 	Week3    | 	Data Modeling and DAX Measures	|     Power BI Desktop	        | 
+| 	Week4    |      Dashboard Design and Testing	|     Power BI Visualizations   | 
+| 	Week5    | 	Insights and Recommendations	|     Data Analysis in Power BI | 
+| 	Week5    | 	Report Writing and Submission	|     MS Word                   | 
 
 
 ________________________________________
-Conclusion
+**CONCLUSION**
 This project aims to showcase the power of data analytics in the grocery delivery industry by creating a dynamic and insightful dashboard for Blinkit's sales data. The analysis and visualizations will not only provide valuable insights into sales trends and outlet performance but also serve as a strong foundation for future data-driven decision-making in the organization.
-________________________________________
-References
-1.	Dataset (Blinkit Grocery Data Excel File).
-2.	Power BI Official Documentation.
-3.	Online resources on sales analytics and data visualization best practices.
 
 
 
