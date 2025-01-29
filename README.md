@@ -83,8 +83,11 @@ ________________________________________
 **TOOLS AND TECHNOLOGY**
 
 1.**Power BI Desktop:** For data modeling and visualization.
+
 2.**Power Query:** For data transformation and cleaning.
+
 3.**DAX (Data Analysis Expressions)**: For custom metrics and calculated columns.
+
 4.**Microsoft Excel:** For initial data review and preprocessing.
 ________________________________________
 
