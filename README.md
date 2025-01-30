@@ -29,16 +29,27 @@ ________________________________________
 2. **Format:** Excel (.xlsx) file 
 
 3. **Keyfields**
-      o**Item Fat Content**: Type of fat content
+   
+      o**Item Fat Content**: Type of fat content.
+   
       o**Item Identifier:** Unique IDs for items.
-      o**Item Type:** Frozen Foods, Soft Drinks etc
+   
+      o**Item Type:** Frozen Foods, Soft Drinks etc.
+   
       o**Outlet Establishment Year:** Year of outlet establishment.
+   
       o**Outlet Identifier:** Unique outlet IDs.
-      o**Outlet Location Type**: Tier-based location classification 
+   
+      o**Outlet Location Type**: Tier-based location classification.
+   
       o**Outlet Size:** Small, Medium, High.
+   
       o**Outlet Type:** Supermarket types.
+   
       o**Item Visibility:** Shelf visibility of items.
+   
       o**Sales:** Sales values for items.
+   
       o**Rating:** Customer ratings for items/store
 
 _______________________________________
