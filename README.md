@@ -117,7 +117,7 @@ ________________________________________
 | 	Week3    | 	Data Modeling and DAX Measures	|     Power BI Desktop	        | 
 | 	Week4    |      Dashboard Design and Testing	|     Power BI Visualizations   | 
 | 	Week5    | 	Insights and Recommendations	|     Data Analysis in Power BI | 
-| 	Week5    | 	Report Writing and Submission	|     MS Word                   | 
+| 	Week6    | 	Report Writing and Submission	|     MS Word                   | 
 
 
 ________________________________________
